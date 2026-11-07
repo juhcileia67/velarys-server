@@ -1,0 +1,1 @@
+{"name":"velarys-coop-server","version":"0.8.0","private":true,"type":"module","scripts":{"start":"node server.js"},"dependencies":{"ws":"^8.18.0"},"engines":{"node":">=18"}}
